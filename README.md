@@ -1,5 +1,5 @@
 ### Hi LMWN Recruitment Team, I'm Pimdao! ⭐️⭐️
-**Aspiring UX Researcher | Data Enthusiast | Digital Innovator**
+**Aspiring UX Researcher**
 
 I am a Digital Transformation and Innovation student at Thammasat University with a passion for connecting **Business Analytics** and **Human-Centered Design**. My goal is to understand *what* is happening through data and *why* it is happening through user research.
 
