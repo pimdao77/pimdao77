@@ -20,13 +20,13 @@ I am a Digital Transformation student at Thammasat University with a passion for
 * *Focus:* **UX Research & Solution Design**
 * *Overview:* Led end-to-end research to uncover user pain points regarding pricing transparency and translated insights into actionable Figma prototypes.
 * *Tools:* Figma, User Interviews, Design Thinking
-* 👉 [Click here to view Case Study/Design](https://github.com/pimdao77/Agoda-UX-Research-Design-Thinking-Project.git)
+* 👉 [Click here to view solution](https://github.com/pimdao77/Agoda-UX-Research-Design-Thinking-Project.git)
 
 #### 2. Mobile Book Rental App Project 📱
 * *Focus:* **UI Design & Front-end Development**
 * *Overview:* Designed a user-friendly book rental interface on Figma and developed the functional prototype using XAML on Visual Studio Code.
 * *Tools:* XAML, Visual Studio, Figma
-* 👉 [Click here to view Code & Screens](ลิงก์ไฟล์ของคุณ)
+* 👉 [Click here to view presentation](https://www.canva.com/design/DAGVOZefSvQ/FASHvxuX9S3hD5ct9-mnyw/view?utm_content=DAGVOZefSvQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf70218bd46)
 
 #### 3. Customer Churn Prediction (Capstone Project) 📉
 * *Focus:* **Data Mining & Business Analytics**
