@@ -32,26 +32,26 @@ I am a Digital Transformation student at Thammasat University with a passion for
 * *Focus:* **Data Mining & Business Analytics**
 * *Overview:* Analyzed banking customer behavior to predict churn and identified key factors influencing satisfaction to improve retention strategy.
 * *Tools:* Python, Jupyter Notebook, Data Visualization
-* 👉 [Click here to view Analysis Notebook](ลิงก์ไฟล์ของคุณ)
+* 👉 [Click here to view Analysis Notebook](https://github.com/pimdao77/Capstone-project.git)
 
 #### 4. CUBS Blockathon: Healthcare Innovation 🏥
 * *Focus:* **Business Innovation & Pitching**
 * *Achievement:* **Top 10 Finalist (out of 4,000 teams)** at SCBX Next Tech.
 * *Overview:* Developed and pitched an innovative healthcare solution, demonstrating leadership and creativity under pressure.
 * *Tools:* Pitch Deck, Business Model Canvas
-* 👉 [Click here to view Pitch Deck](ลิงก์ไฟล์ของคุณ)
+* 👉 [Click here to view Pitch Deck](https://github.com/pimdao77/CUBS-Blockathon-Healthcare-Innovation.git)
 
 #### 5. 7-Eleven Smart Vending Machine 🏪
 * *Focus:* **Retail Innovation**
 * *Overview:* Collaborated with CPALL to design a "Smart Vending Machine" prototype, applying business knowledge to create a convenient retail solution.
 * *Tools:* Prototyping, Innovation Strategy
-* 👉 [Click here to view Project Details](ลิงก์ไฟล์ของคุณ)
+* 👉 [Click here to view Project Details](https://www.canva.com/design/DAG18Pb5ZzE/wY9nu9J8IxkUJjFhoWvVnw/view?utm_content=DAG18Pb5ZzE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcaca716a33)
 
 #### 6. Singha Online Ordering (Design Thinking) 🍺
 * *Focus:* **UX/UI & Digital Strategy**
 * *Overview:* Applied Design Thinking principles to develop an online ordering website concept for Singha Corporation, focusing on enhancing user experience.
 * *Tools:* Design Thinking Process, Website Mockup
-* 👉 [Click here to view Design Process](ลิงก์ไฟล์ของคุณ)
+* 👉 [Click here to view Design Process](https://www.canva.com/design/DAG4BSGOy-o/rZPd2M44es3qnQk659SYAA/view?utm_content=DAG4BSGOy-o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h009ed96fdc)
 
 #### 7. "PRIKZ" High-Protein Thai Sauce 🌶️
 * *Focus:* **Product Innovation (NIA)**
@@ -62,11 +62,12 @@ I am a Digital Transformation student at Thammasat University with a passion for
 #### 8. Work and Travel USA (Cultural Exchange) 🇺🇸
 * *Focus:* **Adaptability & Communication**
 * *Overview:* Worked in the food & beverage industry in Virginia, USA. Strengthened English communication skills and resilience through real-world work experience abroad.
+* Strengthened communication, adaptability, and endurance through real-world work experience abroad.
 * *Content:* Photo Diary / Experience Summary
-* 👉 [Click here to view My Journey](ลิงก์ไฟล์ของคุณ)
+* 👉 [Click here to view My Journey](https://www.canva.com/design/DAG6cHj5GQ0/LlBELj_x4_urSvz_e5OjHQ/view?utm_content=DAG6cHj5GQ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9bbe0e5988)
 
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Put your LinkedIn URL here]
+* **Tel:** [0839328384]
 * **Email:** prawdimm@gmail.com
