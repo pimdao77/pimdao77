@@ -78,6 +78,6 @@ I am a Digital Transformation and Innovation student at Thammasat University wit
 
 ---
 
-### 📫 Thank you for stopping by. I’m always open to feedback and friendly conversations. Let’s connect!
+### 📫 Thank you for stopping by. I’m always open to feedback and friendly conversations naka 💕
 * **Tel:** 0839328384
 * **Email:** prawdimm@gmail.com
