@@ -32,44 +32,44 @@ I am a Digital Transformation and Innovation student at Thammasat University wit
 * *Tools:* Figma, User Interviews, Google form, Design Thinking
 * 👉 [Click here to view solution](https://github.com/pimdao77/uxui-project.git)
 
-#### 2. Mobile Book Rental App Project 📱
+#### 3. Mobile Book Rental App Project 📱
 * *Focus:* **UI Design & Front-end Development**
 * *Overview:* Designed a user-friendly book rental interface on Figma and developed the functional prototype using XAML on Visual Studio Code.
 * *Tools:* XAML, Visual Studio, Figma
 * 👉 [Click here to view presentation](https://www.canva.com/design/DAGVOZefSvQ/FASHvxuX9S3hD5ct9-mnyw/view?utm_content=DAGVOZefSvQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf70218bd46)
 
-#### 3. Customer Churn Prediction (Capstone Project) 📉
+#### 4. Customer Churn Prediction (Capstone Project) 📉
 * *Focus:* **Data Mining & Business Analytics**
 * *Overview:* Analyzed banking customer behavior to predict churn and identified key factors influencing satisfaction to improve retention strategy.
 * *Tools:* Python, Data Visualization, Canva
 * 👉 [Click here to view Project Details](https://github.com/pimdao77/Capstone-project.git)
 
-#### 4. CUBS Blockathon: Healthcare Innovation 🏥
+#### 5. CUBS Blockathon: Healthcare Innovation 🏥
 * *Focus:* **Business Innovation & Pitching**
 * *Achievement:* **Top 10 Finalist (out of 4,000 teams)** at SCBX Next Tech.
 * *Overview:* Developed and pitched an innovative healthcare solution, demonstrating leadership and creativity under pressure.
 * *Tools:* Pitch Deck, Business Model Canvas, Canva
 * 👉 [Click here to view Pitch Deck](https://github.com/pimdao77/CUBS-Blockathon-Healthcare-Innovation.git)
 
-#### 5. 7-Eleven Smart Vending Machine 🏪
+#### 6. 7-Eleven Smart Vending Machine 🏪
 * *Focus:* **Retail Innovation**
 * *Overview:* Collaborated with CPALL to design a "Smart Vending Machine" prototype, applying business knowledge to create a convenient retail solution.
 * *Tools:* Prototyping, Innovation Strategy
 * 👉 [Click here to view Project Details](https://www.canva.com/design/DAG18Pb5ZzE/wY9nu9J8IxkUJjFhoWvVnw/view?utm_content=DAG18Pb5ZzE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcaca716a33)
 
-#### 6. Singha Online Ordering (Design Thinking) 🍺
+#### 7. Singha Online Ordering (Design Thinking) 🍺
 * *Focus:* **UX/UI & Digital Strategy**
 * *Overview:* Applied Design Thinking principles to develop an online ordering website concept for Singha Corporation, focusing on enhancing user experience.
 * *Tools:* Design Thinking Process, Figma
 * 👉 [Click here to view Design Process](https://www.canva.com/design/DAG4BSGOy-o/rZPd2M44es3qnQk659SYAA/view?utm_content=DAG4BSGOy-o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h009ed96fdc)
 
-#### 7. "PRIKZ" High-Protein Thai Sauce 🌶️
+#### 8. "PRIKZ" High-Protein Thai Sauce 🌶️
 * *Focus:* **Product Innovation (NIA)**
 * *Overview:* Created an innovative powdered condiment in a bottle cap twist-design. Positioned as a modern Thai souvenir with global scalability.
 * *Tools:* Product Design, Market Strategy
 * 👉 [Click here to view Product Concept](https://github.com/pimdao77/PRIKX_Highprotein_sauce.git)
 
-#### 8. Work and Travel USA (Cultural Exchange) 🇺🇸
+#### 9. Work and Travel USA (Cultural Exchange) 🇺🇸
 * *Focus:* **Adaptability & Communication**
 * *Overview:* Worked in the food & beverage industry in Virginia, USA. Strengthened English communication skills and resilience through real-world work experience abroad.
 * Strengthened communication, adaptability, and endurance through real-world work experience abroad.
@@ -78,6 +78,6 @@ I am a Digital Transformation and Innovation student at Thammasat University wit
 
 ---
 
-### 📫 Let's Connect
+### 📫 Thank you for stopping by. I’m always open to feedback and friendly conversations. Let’s connect!
 * **Tel:** 0839328384
 * **Email:** prawdimm@gmail.com
