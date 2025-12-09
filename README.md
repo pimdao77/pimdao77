@@ -4,7 +4,7 @@
 I am a Digital Transformation and Innovation student at Thammasat University with a passion for connecting **Business Analytics** and **Human-Centered Design**. My goal is to understand *what* is happening through data and *why* it is happening through user research.
 
 ### 🎀 For reviewing my resume
-* 👉 [press here](https://www.canva.com/design/DAG6Wtmek3M/ifL9QNXUtEkAaJbm8c18Ag/view?utm_content=DAG6Wtmek3M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3c84a205b7)
+* 👉 [pimdao's resume](https://www.canva.com/design/DAG6Wtmek3M/ifL9QNXUtEkAaJbm8c18Ag/view?utm_content=DAG6Wtmek3M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3c84a205b7)
 
 ---
 
@@ -25,6 +25,13 @@ I am a Digital Transformation and Innovation student at Thammasat University wit
 * *Tools:* Figma, User Interviews, Design Thinking
 * 👉 [Click here to view solution](https://github.com/pimdao77/Agoda-UX-Research-Design-Thinking-Project.git)
 
+#### 2. UXUI Project (Reservation Application) 🍴
+* *Focus:* **UX Research & Solution Design**
+* *Overview:* Conducted qualitative user research through in-depth interviews and thematic audio analysis, synthesizing findings into data-driven Personas and Customer Journey Maps to guide product strategy.
+* Leveraged Design Thinking to translate user insights into actionable features for the "BITTEN" app, validating solutions through prototyping to achieve a 94% user satisfaction rate.
+* *Tools:* Figma, User Interviews, Google form, Design Thinking
+* 👉 [Click here to view solution](https://github.com/pimdao77/uxui-project.git)
+
 #### 2. Mobile Book Rental App Project 📱
 * *Focus:* **UI Design & Front-end Development**
 * *Overview:* Designed a user-friendly book rental interface on Figma and developed the functional prototype using XAML on Visual Studio Code.
@@ -34,14 +41,14 @@ I am a Digital Transformation and Innovation student at Thammasat University wit
 #### 3. Customer Churn Prediction (Capstone Project) 📉
 * *Focus:* **Data Mining & Business Analytics**
 * *Overview:* Analyzed banking customer behavior to predict churn and identified key factors influencing satisfaction to improve retention strategy.
-* *Tools:* Python, Jupyter Notebook, Data Visualization
+* *Tools:* Python, Data Visualization, Canva
 * 👉 [Click here to view Project Details](https://github.com/pimdao77/Capstone-project.git)
 
 #### 4. CUBS Blockathon: Healthcare Innovation 🏥
 * *Focus:* **Business Innovation & Pitching**
 * *Achievement:* **Top 10 Finalist (out of 4,000 teams)** at SCBX Next Tech.
 * *Overview:* Developed and pitched an innovative healthcare solution, demonstrating leadership and creativity under pressure.
-* *Tools:* Pitch Deck, Business Model Canvas
+* *Tools:* Pitch Deck, Business Model Canvas, Canva
 * 👉 [Click here to view Pitch Deck](https://github.com/pimdao77/CUBS-Blockathon-Healthcare-Innovation.git)
 
 #### 5. 7-Eleven Smart Vending Machine 🏪
@@ -53,7 +60,7 @@ I am a Digital Transformation and Innovation student at Thammasat University wit
 #### 6. Singha Online Ordering (Design Thinking) 🍺
 * *Focus:* **UX/UI & Digital Strategy**
 * *Overview:* Applied Design Thinking principles to develop an online ordering website concept for Singha Corporation, focusing on enhancing user experience.
-* *Tools:* Design Thinking Process, Website Mockup
+* *Tools:* Design Thinking Process, Figma
 * 👉 [Click here to view Design Process](https://www.canva.com/design/DAG4BSGOy-o/rZPd2M44es3qnQk659SYAA/view?utm_content=DAG4BSGOy-o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h009ed96fdc)
 
 #### 7. "PRIKZ" High-Protein Thai Sauce 🌶️
