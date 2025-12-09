@@ -35,7 +35,7 @@ I am a Digital Transformation and Innovation student at Thammasat University wit
 * *Focus:* **Data Mining & Business Analytics**
 * *Overview:* Analyzed banking customer behavior to predict churn and identified key factors influencing satisfaction to improve retention strategy.
 * *Tools:* Python, Jupyter Notebook, Data Visualization
-* 👉 [Click here to view Analysis Notebook](https://github.com/pimdao77/Capstone-project.git)
+* 👉 [Click here to view Project Details](https://github.com/pimdao77/Capstone-project.git)
 
 #### 4. CUBS Blockathon: Healthcare Innovation 🏥
 * *Focus:* **Business Innovation & Pitching**
@@ -60,7 +60,7 @@ I am a Digital Transformation and Innovation student at Thammasat University wit
 * *Focus:* **Product Innovation (NIA)**
 * *Overview:* Created an innovative powdered condiment in a bottle cap twist-design. Positioned as a modern Thai souvenir with global scalability.
 * *Tools:* Product Design, Market Strategy
-* 👉 [Click here to view Product Concept](ลิงก์ไฟล์ของคุณ)
+* 👉 [Click here to view Product Concept](https://github.com/pimdao77/PRIKX_Highprotein_sauce.git)
 
 #### 8. Work and Travel USA (Cultural Exchange) 🇺🇸
 * *Focus:* **Adaptability & Communication**
