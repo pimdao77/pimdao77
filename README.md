@@ -3,8 +3,6 @@
 
 I am a Digital Transformation and Innovation student at Thammasat University with a passion for connecting **Business Analytics** and **Human-Centered Design**. My goal is to understand *what* is happening through data and *why* it is happening through user research.
 
-### 🎀 For reviewing my resume
-* 👉 [pimdao's resume](https://www.canva.com/design/DAG6Wtmek3M/ifL9QNXUtEkAaJbm8c18Ag/view?utm_content=DAG6Wtmek3M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3c84a205b7)
 
 ---
 
