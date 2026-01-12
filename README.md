@@ -1,10 +1,24 @@
-### Hi LMWN Recruitment Team, I'm Pimdao! ⭐️⭐️
+### Hi Recruitment Team, 
 **Aspiring UX Researcher**
 
 I am a Digital Transformation and Innovation student at Thammasat University with a passion for connecting **Business Analytics** and **Human-Centered Design**. My goal is to understand *what* is happening through data and *why* it is happening through user research.
 
-### 🎀 For reviewing my resume
-* 👉 [pimdao's resume](https://www.canva.com/design/DAG6Wtmek3M/ifL9QNXUtEkAaJbm8c18Ag/view?utm_content=DAG6Wtmek3M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3c84a205b7)
+# Sawasdee ka! I'm Pimdao ⭐️⭐️
+**Thank you for stopping by!** It means a lot to have you here.
+
+I believe the best products are born where **Innovation meets Humanity**.
+### 🎨 Transforming "Complex Data" into "Intuitive Experiences"
+I’m thrilled to share my work with you!
+---
+
+### 🛠️ My Toolkit
+
+| **Research & Strategy** | **Data & Analytics** | **Design & Prototyping** |
+| :--- | :--- | :--- |
+| 🧠 Empathy Mapping | 🐍 Python (Pandas/Scikit-learn) | 🎨 Figma |
+| 👥 Usability Testing | 📊 SQL Basics | 📱 XAML |
+| 🗺️ Customer Journey | 📉 Churn Prediction Models | 🖌️ Canva |
+
 
 ---
 
@@ -60,7 +74,8 @@ I am a Digital Transformation and Innovation student at Thammasat University wit
 
 #### 7. Singha Online Ordering (Design Thinking) 🍺
 * *Focus:* **UX/UI & Digital Strategy**
-* *Overview:* Applied Design Thinking principles to develop an online ordering website concept for Singha Corporation, focusing on enhancing user experience.
+* *Overview:* Develop an Singha online ordering website using Design Thinking principles through prototyping to achieve a 70% user satisfaction rate. 
+Focused on improving user experience and aligning digital strategy with customer needs. 
 * *Tools:* Design Thinking Process, Figma
 * 👉 [Click here to view Design Process](https://www.canva.com/design/DAG4BSGOy-o/rZPd2M44es3qnQk659SYAA/view?utm_content=DAG4BSGOy-o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h009ed96fdc)
 
@@ -78,7 +93,7 @@ I am a Digital Transformation and Innovation student at Thammasat University wit
 * 👉 [Click here to view My Journey](https://www.canva.com/design/DAG6cHj5GQ0/LlBELj_x4_urSvz_e5OjHQ/view?utm_content=DAG6cHj5GQ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9bbe0e5988)
 
 ---
-
+Here is a collection of my favorite challenges—where I turned complex pain points into simple, tangible solutions.
 ### 📫 Thank you for stopping by. I’m always open to feedback and friendly conversations naka 💕
 * **Tel:** 0839328384
 * **Email:** prawdimm@gmail.com
