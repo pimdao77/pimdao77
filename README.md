@@ -14,6 +14,9 @@
 | Customer Journey | Churn Prediction Models | Canva |
 
 ---
+
+Here is a collection of my favorite challenges—where I turned complex pain points into simple, tangible solutions.
+---
 ### 🏆 Featured Projects
 
 #### 1. Agoda UX Research & Design Thinking Project 🏨
@@ -80,7 +83,6 @@ Focused on improving user experience and aligning digital strategy with customer
 * **Business:** I understand that good UX must lead to business growth.
 
 ---
-Here is a collection of my favorite challenges—where I turned complex pain points into simple, tangible solutions.
 ### 📫 Thank you for stopping by. I’m always open to feedback and friendly conversations naka 💕
 * **Tel:** 0839328384
 * **Email:** prawdimm@gmail.com
