@@ -4,7 +4,7 @@
 
 > **Transforming complex data into intuitive experiences where innovation meets complex human needs 🎖️**
 
-I’m thrilled to share my work with you! 
+**I’m thrilled to share my work with you! 
 ---
 
 ### 🛠️ My Toolkit
