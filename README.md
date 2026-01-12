@@ -1,4 +1,4 @@
-# Sawasdee ka! I'm Pimdao ⭐️⭐️
+## Sawasdee ka! I'm Pimdao ⭐️⭐️
 
 **🎀 Thank you for stopping by!** It means a lot to have you here.
 
@@ -15,8 +15,8 @@
 
 ---
 
-Here is a collection of my favorite challenges—where I turned complex pain points into simple, tangible solutions.
----
+Here is a collection of my favorite challenges—where I turned complex pain points into simple, tangible solutions❣️
+
 ### 🏆 Featured Projects
 
 #### 1. Agoda UX Research & Design Thinking Project 🏨
@@ -84,5 +84,5 @@ Focused on improving user experience and aligning digital strategy with customer
 
 ---
 ### 📫 Thank you for stopping by. I’m always open to feedback and friendly conversations naka 💕
-* **Tel:** 0839328384
+* **Tel:** 083 932 8384
 * **Email:** prawdimm@gmail.com
