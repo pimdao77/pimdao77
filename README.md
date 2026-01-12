@@ -1,6 +1,6 @@
 # Sawasdee ka! I'm Pimdao ⭐️⭐️
 
-**Thank you for stopping by!** It means a lot to have you here.
+**🎀 Thank you for stopping by!** It means a lot to have you here.
 
 > **Transforming complex data into intuitive experiences where innovation meets complex human needs 🎖️**
 ---
