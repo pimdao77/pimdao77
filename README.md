@@ -7,7 +7,7 @@
 
 ### 🏹 My Toolkit
 
-| **Research & Strategy 📊** | **Data & Analytics 📑** | **Design & Prototyping 💡** |
+| **Research & Strategy ♥️** | **Data & Analytics ♥️** | **Design & Prototyping ♥️** |
 | :--- | :--- | :--- |
 | Empathy Mapping | Python (Pandas/Scikit-learn) | Figma |
 | Usability Testing | SQL Basics | XAML |
@@ -74,7 +74,7 @@ Focused on improving user experience and aligning digital strategy with customer
 * *Content:* Photo Diary / Experience Summary
 * 👉 [Click here to view My Journey](https://www.canva.com/design/DAG6cHj5GQ0/LlBELj_x4_urSvz_e5OjHQ/view?utm_content=DAG6cHj5GQ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9bbe0e5988)
 
-### Why work with me ⭐️ 
+### ⭐️Why work with me. 
 * **Data:** I don't just guess; I validate design decisions with numbers.
 * **Design:** I can translate raw data into intuitive user interfaces.
 * **Business:** I understand that good UX must lead to business growth.
