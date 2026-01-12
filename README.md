@@ -1,10 +1,8 @@
 # Sawasdee ka! I'm Pimdao ⭐️⭐️
 
-**Thank you for stopping by!** It means a lot to have you here.
+**Thank you for stopping by!** It means a lot to have you here ,I’m thrilled to share my work with you! 
 
 > **Transforming complex data into intuitive experiences where innovation meets complex human needs 🎖️**
-
-**I’m thrilled to share my work with you! 
 ---
 
 ### 🛠️ My Toolkit
