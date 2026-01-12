@@ -1,13 +1,8 @@
-### Hi Recruitment Team, 
-**Aspiring UX Researcher**
-
-I am a Digital Transformation and Innovation student at Thammasat University with a passion for connecting **Business Analytics** and **Human-Centered Design**. My goal is to understand *what* is happening through data and *why* it is happening through user research.
-
 # Sawasdee ka! I'm Pimdao ⭐️⭐️
 **Thank you for stopping by!** It means a lot to have you here.
 
 I believe the best products are born where **Innovation meets Humanity**.
-### 🎨 Transforming "Complex Data" into "Intuitive Experiences"
+### Transforming "Complex Data" into "Intuitive Experiences"
 I’m thrilled to share my work with you!
 ---
 
@@ -19,16 +14,6 @@ I’m thrilled to share my work with you!
 | 👥 Usability Testing | 📊 SQL Basics | 📱 XAML |
 | 🗺️ Customer Journey | 📉 Churn Prediction Models | 🖌️ Canva |
 
-
----
-
-
-### 🚀 What I bring to the table
-
-* **User Research:** Empathy Mapping, Persona Development, Usability Testing
-* **Data Analytics:** Python (Pandas/Scikit-learn), SQL, Churn Prediction Models
-* **Design & Prototyping:** Figma, Canva, Capcut, Visual Studio Code
-* **Development:** XAML, Basic Frontend understanding (bridge between Design & Dev)
 
 ---
 
@@ -91,6 +76,11 @@ Focused on improving user experience and aligning digital strategy with customer
 * Strengthened communication, adaptability, and endurance through real-world work experience abroad.
 * *Content:* Photo Diary / Experience Summary
 * 👉 [Click here to view My Journey](https://www.canva.com/design/DAG6cHj5GQ0/LlBELj_x4_urSvz_e5OjHQ/view?utm_content=DAG6cHj5GQ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9bbe0e5988)
+
+### Why work with me ⭐️ 
+* **Data:** I don't just guess; I validate design decisions with numbers.
+* **Design:** I can translate raw data into intuitive user interfaces.
+* **Business:** I understand that good UX must lead to business growth.
 
 ---
 Here is a collection of my favorite challenges—where I turned complex pain points into simple, tangible solutions.
