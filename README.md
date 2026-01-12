@@ -1,13 +1,13 @@
-# Sawasdee ka! I'm Pimdao ⭐️⭐️
+### Sawasdee ka! I'm Pimdao ⭐️⭐️
 **Thank you for stopping by!** It means a lot to have you here.
 
-Transforming complex data into intuitive experiences where innovation meets complex human needs
+**Transforming complex data into intuitive experiences where innovation meets complex human needs🎖️**
 I’m thrilled to share my work with you!
 ---
 
 ### 🛠️ My Toolkit
 
-| **Research & Strategy** | **Data & Analytics** | **Design & Prototyping** |
+| **Research & Strategy 📊** | **Data & Analytics 📑** | **Design & Prototyping 💡** |
 | :--- | :--- | :--- |
 |  Empathy Mapping |  Python (Pandas/Scikit-learn) |  Figma |
 |  Usability Testing |  SQL Basics |  XAML |
