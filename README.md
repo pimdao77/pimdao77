@@ -5,7 +5,7 @@
 > **Transforming complex data into intuitive experiences where innovation meets complex human needs 🎖️**
 ---
 
-### 🏹 My Toolkit ★
+### 🏹 My Toolkit
 
 | **Research & Strategy 📊** | **Data & Analytics 📑** | **Design & Prototyping 💡** |
 | :--- | :--- | :--- |
