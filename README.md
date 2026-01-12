@@ -1,22 +1,10 @@
-<h1 align="center">Sawasdee ka! I'm Pimdao (Pim) 🌟</h1>
+# Sawasdee ka! I'm Pimdao ⭐️⭐️
 
-<p align="center">
-  <b>Aspiring UX Researcher | Decoding Human Behaviors with Data & Design</b>
-</p>
+**Thank you for stopping by!** It means a lot to have you here.
 
-<p align="center">
-  Thank you for stopping by! It means a lot to have you here.
-</p>
+> **Transforming complex data into intuitive experiences where innovation meets complex human needs 🎖️**
 
-<br>
-
-<div align="center">
-
-> *"Transforming complex data into intuitive experiences where innovation meets complex human needs."* 🏆
-
-</div>
-
-<br>
+I’m thrilled to share my work with you! 👇
 
 ---
 ### 🏆 Featured Projects
