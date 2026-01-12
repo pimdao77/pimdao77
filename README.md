@@ -4,7 +4,16 @@
 
 > **Transforming complex data into intuitive experiences where innovation meets complex human needs 🎖️**
 
-I’m thrilled to share my work with you! 👇
+I’m thrilled to share my work with you! 
+---
+
+### 🛠️ My Toolkit
+
+| **Research & Strategy 📊** | **Data & Analytics 📑** | **Design & Prototyping 💡** |
+| :--- | :--- | :--- |
+| Empathy Mapping | Python (Pandas/Scikit-learn) | Figma |
+| Usability Testing | SQL Basics | XAML |
+| Customer Journey | Churn Prediction Models | Canva |
 
 ---
 ### 🏆 Featured Projects
