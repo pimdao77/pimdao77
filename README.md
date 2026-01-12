@@ -7,7 +7,7 @@
 
 ### 🏹 My Toolkit
 
-| **Research & Strategy 📝 ** | **Data & Analytics 📊** | **Design & Prototyping 💡 ** |
+| **Research & Strategy 📝** | **Data & Analytics 📊** | **Design & Prototyping 💡** |
 | :--- | :--- | :--- |
 | Empathy Mapping | Python (Pandas/Scikit-learn) | Figma |
 | Usability Testing | SQL Basics | XAML |
