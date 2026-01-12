@@ -1,21 +1,24 @@
-### Sawasdee ka! I'm Pimdao ⭐️⭐️
-**Thank you for stopping by!** It means a lot to have you here.
+<h1 align="center">Sawasdee ka! I'm Pimdao (Pim) 🌟</h1>
 
-**Transforming complex data into intuitive experiences where innovation meets complex human needs🎖️**
-I’m thrilled to share my work with you!
+<p align="center">
+  <b>Aspiring UX Researcher | Decoding Human Behaviors with Data & Design</b>
+</p>
+
+<p align="center">
+  Thank you for stopping by! It means a lot to have you here.
+</p>
+
+<br>
+
+<div align="center">
+
+> *"Transforming complex data into intuitive experiences where innovation meets complex human needs."* 🏆
+
+</div>
+
+<br>
+
 ---
-
-### 🛠️ My Toolkit
-
-| **Research & Strategy 📊** | **Data & Analytics 📑** | **Design & Prototyping 💡** |
-| :--- | :--- | :--- |
-|  Empathy Mapping |  Python (Pandas/Scikit-learn) |  Figma |
-|  Usability Testing |  SQL Basics |  XAML |
-|  Customer Journey |  Churn Prediction Models |  Canva |
-
-
----
-
 ### 🏆 Featured Projects
 
 #### 1. Agoda UX Research & Design Thinking Project 🏨
