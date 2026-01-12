@@ -1,8 +1,7 @@
 # Sawasdee ka! I'm Pimdao ⭐️⭐️
 **Thank you for stopping by!** It means a lot to have you here.
 
-I believe the best products are born where **Innovation meets Humanity**.
-### Transforming "Complex Data" into "Intuitive Experiences"
+Transforming complex data into intuitive experiences where innovation meets complex human needs
 I’m thrilled to share my work with you!
 ---
 
@@ -10,9 +9,9 @@ I’m thrilled to share my work with you!
 
 | **Research & Strategy** | **Data & Analytics** | **Design & Prototyping** |
 | :--- | :--- | :--- |
-| 🧠 Empathy Mapping | 🐍 Python (Pandas/Scikit-learn) | 🎨 Figma |
-| 👥 Usability Testing | 📊 SQL Basics | 📱 XAML |
-| 🗺️ Customer Journey | 📉 Churn Prediction Models | 🖌️ Canva |
+|  Empathy Mapping |  Python (Pandas/Scikit-learn) |  Figma |
+|  Usability Testing |  SQL Basics |  XAML |
+|  Customer Journey |  Churn Prediction Models |  Canva |
 
 
 ---
