@@ -61,13 +61,13 @@ Here is a collection of my favorite challenges—where I turned complex pain poi
 * *Focus:* **UX/UI & Digital Strategy**
 * *Overview:* Develop an Singha online ordering website using Design Thinking principles through prototyping to achieve a 70% user satisfaction rate. 
 Focused on improving user experience and aligning digital strategy with customer needs. 
-* *Tools:* Design Thinking Process, Figma
+* *Tools:* Design Thinking Process, Figma, Service Blueprint, Budget & ROI, KPI.
 * 👉 [Click here to view Design Process](https://www.canva.com/design/DAG4BSGOy-o/rZPd2M44es3qnQk659SYAA/view?utm_content=DAG4BSGOy-o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h009ed96fdc)
 
 #### 8. "PRIKZ" High-Protein Thai Sauce 🌶️
 * *Focus:* **Product Innovation (NIA)**
 * *Overview:* Created an innovative powdered condiment in a bottle cap twist-design. Positioned as a modern Thai souvenir with global scalability.
-* *Tools:* Product Design, Market Strategy
+* *Tools:* Product Design, Market Strategy, Design Thinking Process, Innovation Strategy, Financial, Competitors Analysis, Business Value.
 * 👉 [Click here to view Product Concept](https://github.com/pimdao77/PRIKX_Highprotein_sauce.git)
 
 #### 9. Work and Travel USA (Cultural Exchange) 🇺🇸
