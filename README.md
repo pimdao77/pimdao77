@@ -54,7 +54,7 @@ Here is a collection of my favorite challenges—where I turned complex pain poi
 #### 6. 7-Eleven Smart Vending Machine 🏪
 * *Focus:* **Retail Innovation**
 * *Overview:* Collaborated with CPALL to design a "Smart Vending Machine" prototype, applying business knowledge to create a convenient retail solution.
-* *Tools:* Prototyping, Innovation Strategy
+* *Tools:* Prototyping, Innovation Strategy, Financial, Competitors Analysis, Business Value.
 * 👉 [Click here to view Project Details](https://www.canva.com/design/DAG18Pb5ZzE/wY9nu9J8IxkUJjFhoWvVnw/view?utm_content=DAG18Pb5ZzE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcaca716a33)
 
 #### 7. Singha Online Ordering (Design Thinking) 🍺
