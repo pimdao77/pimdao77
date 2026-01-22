@@ -10,9 +10,9 @@
 
 | **Research & Strategy 📝** | **Data & Analytics 📊** | **Design & Prototyping 💡** |
 | :--- | :--- | :--- |
-| Empathy Mapping | Python (Pandas/Scikit-learn) | Figma |
-| Usability Testing | SQL Basics | XAML |
-| Customer Journey | Churn Prediction Models | Canva |
+| Creation & Initiative | Python (Pandas/Scikit-learn) | Figma |
+| Project Management | SQL Basics | XAML |
+| Data-Driven Decision Making | Churn Prediction Models | Canva |
 
 ---
 
