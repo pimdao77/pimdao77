@@ -10,9 +10,9 @@
 
 | **Research & Strategy 📝** | **Data & Analytics 📊** | **Design & Prototyping 💡** |
 | :--- | :--- | :--- |
-| Creation & Initiative | Python (Pandas/Scikit-learn) | Figma |
-| Project Management | SQL Basics | XAML |
-| Data-Driven Decision Making | Churn Prediction Models | Canva |
+| Market & User Research | Python (Pandas/Scikit-learn) | Figma |
+| Project Management | SQL (Querying & Analysis) | XAML |
+| Data-Driven Decision Making | Predictive Modeling (Churn) | Canva & Visual Branding |
 
 ---
 
